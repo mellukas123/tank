@@ -47,7 +47,6 @@ class Tank:
                     return True
                 return False
 
-
 class Target:
     def __init__(self):
         self.x = randint(-5, 5)
